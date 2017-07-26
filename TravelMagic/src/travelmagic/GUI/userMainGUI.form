@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="jDialog1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="137" max="-2" attributes="0"/>
+                          <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                          <Component id="jScrollPane3" min="-2" pref="314" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="33" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="424" max="-2" attributes="0"/>
+                  <EmptySpace pref="26" max="32767" attributes="0"/>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cautions and Tips"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="&#xa;&#xa;Always pack a hat. In the winter, a knit hat will keep you warm and take up little room. In the summer, a brimmed hat will keep the sun off your face. In either case, it will save you when your straightening iron doesn&#x2019;t work in the trapezoidal electrical socket you found in your hotel room.&#xa;-&#xa;Packing for a trip is infinitely easier when you&#x2019;ve just done laundry.&#xa;-&#xa;Bring a travel first aid kit with the following: ibuprofen (or other pain killer), decongestant, NyQuil, bandages, hydrocortizone cream. You will not believe how often it will come in handy.&#xa;-&#xa;Going somewhere with clean drinking water? Pack a reusable water bottle that clips on to your bag. Bonus points if it&#x2019;s collapsible. In an age where the bottled stuff costs $7, you&#x2019;ll save a ton, too.&#xa;-&#xa;You will never wear that second dressy outfit, so stop packing it. Most trips, you won&#x2019;t even wear the first dressy outfit (but you should still pack that one).&#xa;-&#xa;Bags with wheels are amazing. That backpack might seem more agile, but have you ever seen someone trek across an airport with one of those on their back? Nimble does not come to mind. Sciatica, yes. But not nimble.&#xa;-&#xa;Don&#x2019;t forget your camera charger. You will go through that battery in a second, esp. when your friends insist on flipping through all of the photos that you just took in order to relive something that happened 5 minutes ago.&#xa;-&#xa;Don&#x2019;t pack clothes that require ironing. Hell, don&#x2019;t buy clothes that require ironing.&#xa;-&#xa;If you are staying with someone, get them a present. Either bring it from home, or take them out during the trip, or send them something afterwards. Do it not only because you will likely be invited back, but because your mom will be so proud.&#xa;-&#xa;Never pack something that you haven&#x2019;t worn before. Otherwise you&#x2019;ll find your new shoes too uncomfortable, your new jacket too flimsy, your new underwear too wedgie-prone.&#xa;-&#xa;Buy that delightfully grotesque souvenir, even if you don&#x2019;t know who to give it to. Odds are, you will think of someone for whom it would be perfect. Worst-case scenario, you&#x2019;ll keep it for yourself. Which is a really great worst-case scenario.&#xa;&#xa;I really should have bought one of those ridiculous hats. Because you can never have enough.&#xa;-&#xa;&#xa;If you hate wearing something at home, you will hate wearing it even more on a trip.&#xa;-&#xa;Pack those god-awful tennis shoes you only wear &#x201c;jogging&#x201d; (a.k.a., &#x201c;to the store to buy ice cream&#x201d;) At some point during your trip, you won&#x2019;t care what you look like. You will only care about being comfortable. For me, that point is &#x201c;Day 2.&#x201d;&#xa;-&#xa;Do not go into a McDonald&#x2019;s. I don&#x2019;t care if you are scared and starving &#x2013; McNuggets are NEVER a viable option. If you need fast food, at least hit up a regional chain.&#xa;&#xa;Or consider picking a restaurant based on its name alone.&#xa;-&#xa;&#xa;Always ask museum staff for tips. They&#x2019;ll tell you what the best exhibits are, and what you can skip.&#xa;&#xa;Plus, they probably get bored looking at naked bodies all day and are DYING for a little human interaction.&#xa;-&#xa;&#xa;If you are at an aquarium or a planetarium, feel free to skip the IMAX movie. They cost a bundle, and are the same EVERYWHERE.&#xa;-&#xa;Tip your hotel housekeeping staff. (A good rule is to leave them about $2 U.S./day.) While you can leave it every day on the pillow, most staff is instructed not to move money or personal items, so they might not pick it up. If this is the case, just leave it in a prominent spot when you check out.&#xa;-&#xa;Never carry your wallet in your back pocket, and never carry your purse on just your shoulder.&#xa;-&#xa;Take notes. As much as you believe the contrary, once you get home you will not remember your tour guide&#x2019;s name, or the artist whose worked you loved so much, or even the city where you stayed. Write it down.&#xa;-&#xa;If you have an inkling that you should be taking photos of something, take them.&#xa;- &#xa;If you have an inkling that you should not be taking photos of something, don&#x2019;t take them.&#xa;- &#xa;The second you think of packing something, PACK IT. If you wait, you will forget. And then you&#x2019;ll end up using a plastic bag as a shower cap. Subsequent attempts to seduce your husband will be impossible after he&#x2019;s seen you with a Rite-Aid sack on your head.&#xa;- &#xa;If you don&#x2019;t speak the local language of the place you are heading, then at least learn the following phrases: Please. Thank you. I&#x2019;m sorry. Do you have those shoes in a size 37?&#xa;-&#xa;Wherever you  are, wherever you are going, bring snacks.&#xa;- &#xa;Dry shampoo is a godsend for those days when you don&#x2019;t have time to wash your hair, but still want to interact with other humans.&#xa;-&#xa;You will inevitably forget something, either at home or while on your trip. Accept this reality, and pray it is not your passport or your spouse.&#xa;- &#xa;Call your credit card company before you leave and put a travel alert on your card. While you&#x2019;re at it, jot down their international customer service number.&#xa;-&#xa;Consider contacting the embassy and letting them know the dates of your trip. Or at the very least, have their contact info on hand.&#xa;-&#xa;Make photocopies of your passport and leave one with friends and another tucked into your bag. Or, better yet, scan your passport and email a copy to yourself.&#xa;-&#xa;Pack more underwear than you could ever conceivably go through. They don&#x2019;t take up much room, and after a few days on the road, you will feel FRIGGING DECADENT when you put on a fresh pair in the morning and again in the afternoon.&#xa;-&#xa;Stuffing socks into your shoes can help you save space and ensure your loafers retain their shape.&#xa;-&#xa;No one will judge you for watching a dumb movie while on a plane. That&#x2019;s what you&#x2019;re supposed to do on planes.&#xa;-&#xa;When packing, try to match all of the pants/bottoms you are taking with all of the tops. This will prevent you from looking like a total goober by the end of your trip.&#xa;&#xa;Though sometimes you will look like a goober anyway, because you really can&apos;t dress yourself.&#xa;-&#xa;&#xa;Dryer sheets remove static from your hair and clothing and make your suitcase smell awesome while taking up virtually no room.&#xa;-&#xa;Do not, under ANY circumstances, use an airplane lavatory while not wearing shoes. That is not okay. I don&#x2019;t care how swollen your feet are. Also, consider rolling up the hems of your pants while you are in there, so they don&#x2019;t brush the floor.&#xa;-&#xa;Toilet paper is not a given in many parts of the world. Which is why those little packs of tissues they sell at drugstores are a godsend.&#xa;-&#xa;It is far easier to get drunk and make an ass of yourself at 30,000 feet than when you are on the ground.&#xa;&#xa;Of course, that doesn&apos;t mean it&apos;s difficult to get drunk on the ground. Just MORE difficult than on a plane.&#xa;-&#xa;&#xa;Border control agents do not get sarcasm.&#xa;- &#xa;If you can&#x2019;t afford to lose it (either financially or emotionally), don&#x2019;t pack it.&#xa;- &#xa;When in Bulgaria, never get into a cab that doesn&#x2019;t have a meter.&#xa;- &#xa;If you&#x2019;ve selected the window seat, you&#x2019;d better have a big bladder.&#xa;-&#xa;If you are starting a brand-new book on your flight, bring at least one other form of entertainment with you, because that brand-new book might suck.&#xa;- &#xa;Suffer from motion sickness? Ask for a drink that is half ginger ale and half club soda. It will help alleviate nausea without putting you into diabetic shock.&#xa;-&#xa;Never check any of the following: your toothbrush, your prescription medications, your deodorant, your pjs.&#xa;-&#xa;Wear sunscreen anytime you will be outside, regardless of the temperature or weather.&#xa;-&#xa;Regardless of size, never bring more than two bags with you- any more than that is unwieldy and difficult to keep track of.&#xa;&#xa;This poor gal was more pack mule than human. But she did have the legs of a 25-year-old, so there&apos;s that.&#xa;-&#xa;&#xa;Rolling non-wrinkable items before shoving them into your suitcase really does save space.&#xa;-&#xa;A passport protector is the most useless item anyone can buy, ever.&#xa;-&#xa;If you&#x2019;ve forgotten something, check with the hotel before running to a drugstore. Most housekeeping departments carry toothbrushes, combs, sewing kits, shower caps, and disposable razors that they will give you free of charge.&#xa;&#xa;Bonus! If you get a teeny tiny tube of toothpaste, you can pretend you are a giant.&#xa;-&#xa;&#xa;Budget hotels almost always offer free wi-fi. Luxury hotels will charge you for it. This is almost always the case.&#xa;-&#xa;Sleeping in while traveling is only acceptable if there is absolutely NOTHING better to do. In other words, it&#x2019;s never acceptable.&#xa;- &#xa;Never trust a theater review from a London critic.&#xa;- &#xa;Don&#x2019;t take foreign guests to an Americanized version of their cuisine. I know I shouldn&#x2019;t generalize, but NO ITALIAN HAS EVER WANTED TO GO TO THE OLIVE GARDEN.&#xa;-&#xa;If a restaurants posts its menu in more than three languages, the food is probably going to suck.&#xa;- &#xa;And, most importantly: never, EVER leave any valuables in your vehicle. I don&#x2019;t care if it&#x2019;s safely hidden in the trunk. I don&#x2019;t care if you&#x2019;re parked in the safest part of town. Don&#x2019;t do it. It&#x2019;s not worth the risk."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Menu class="javax.swing.JMenuBar" name="jMenuBar1">
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="reservationMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Hotel Reservation"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="reservationMenuMouseClicked"/>
+          </Events>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="travelingCautionsMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Traveling Cautions/Tips"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="travelingCautionsMenuMouseClicked"/>
+          </Events>
+        </Menu>
+      </SubComponents>
+    </Menu>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="menuBar" type="java.lang.String" value="jMenuBar1"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jSlider1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="99" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jPanel2" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="searchText" alignment="1" pref="112" max="32767" attributes="0"/>
+                                  <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                      <Component id="searchButton" min="-2" pref="92" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="destinationText" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                                          <Component id="startLocationText" alignment="1" min="-2" pref="111" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="budgetText" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="attractionsPerferences" alignment="0" max="32767" attributes="0"/>
+                          <Component id="routePerferences" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                              <Component id="jScrollPane1" pref="265" max="32767" attributes="0"/>
+                              <Component id="jScrollPane2" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="outputButton" min="-2" max="-2" attributes="0"/>
+                          <Component id="modifyButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="generateButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="325" max="-2" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace pref="76" max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="startLocationText" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="destinationText" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="attractionsPerferences" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                              <Component id="routePerferences" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jPanel1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jSlider1" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="budgetText" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Component id="generateButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="modifyButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel5" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="searchText" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="searchButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="outputButton" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jButton2" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JSlider" name="jSlider1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Starting location"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Destination"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="startLocationText">
+    </Component>
+    <Component class="javax.swing.JTextField" name="destinationText">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="attractionsPerferences">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="routePerferences">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value="No special route Perference"/>
+            <StringItem index="1" value="Lowest price route"/>
+            <StringItem index="2" value="Least days route"/>
+          </StringArray>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Budget"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="budgetText">
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList1">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="new javax.swing.DefaultListModel()" type="code"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Route/Attraction/Hotel Information"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Plan information"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList2">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="new javax.swing.DefaultListModel()" type="code"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="modifyButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Remove from plan"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="modifyButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="outputButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Output"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="outputButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="generateButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Generate"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="generateButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="searchText">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Enter place here"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="searchButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Search"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="searchButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jPanel1MouseClicked"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPost" type="java.lang.String" value="private static travelmagic.map.AttractionLabel attractionLabel;&#xa;private static travelmagic.map.HotelLabel hotelLabel;"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="/*jPanel1.setLocation(0,0);&#xa;jPanel1.setSize(377,403);&#xa;JLabel j=new JLabel(); &#xa;j.setLayout(null);&#xa;j.setSize(377,403);&#xa;Icon icon=new ImageIcon(&quot;C:\\Users\\Yijun\\Desktop\\map.jpg&quot;);&#xa;j.setIcon(icon);&#xa;jPanel1.add(j);*/"/>
+      </AuxValues>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="377" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="194" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
